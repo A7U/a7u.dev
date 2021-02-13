@@ -17,7 +17,5 @@
     "simplebar": "^5.3.0",
     "tailwindcss": "^2.0.3"
   },
-  "devDependencies": {
-    "tailwind-heropatterns": "0.0.8"
-  }
+  "devDependencies": {}
 }
