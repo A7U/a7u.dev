@@ -11,6 +11,7 @@
   "dependencies": {
     "autoprefixer": "^10.2.4",
     "express": "^4.17.1",
+    "particles.js": "^2.0.0",
     "postcss": "^8.2.6",
     "postcss-cli": "^8.3.1",
     "pug": "^3.0.0",
